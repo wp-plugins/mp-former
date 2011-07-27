@@ -37,3 +37,6 @@ With MP Former you can :
 4. Define list of custom taxonomies related to Custom Post Type
 
 == Changelog ==
+
+= 0.4.1 =
+* First version
