@@ -1,0 +1,50 @@
+/* 
+    Document   : admin-general
+    Created on : Jul 9, 2011, 9:08:54 AM
+    Author     : vasyl
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.info{
+    background: url('../images/question_shield.png') no-repeat;
+    width: 24px;
+    height: 24px;
+    display:table-cell;
+    vertical-align: middle;
+}
+
+.tooltip {
+	display:none;
+	background:url(../images/tooltip/black_arrow_big.png);
+	height:163px;
+	padding:25px 30px 10px 30px;
+	width:310px;
+	font-size:11px;
+	color:#fff;
+}
+
+.option_list{
+    width: 100%;
+}
+
+.mp_button{
+    float:right;
+    margin-top: 5px;
+}
+
+select optgroup option{
+    margin-left: 5px;
+}
+
+.notice-message{
+    padding: 0pt 0.7em;
+}
+.notice-icon{
+    float: left;
+    margin-right: 0.3em;
+}
+
+.mp-tabs li .ui-icon-close { float: left; margin: 0.4em 0.2em 0 0; cursor: pointer; }
+
+.mp-ui-state-default { border: 1px solid #d3d3d3/*{borderColorDefault}*/; background: #e6e6e6/*{bgColorDefault}*/ ; background-position: -48px -144px; font-weight: normal/*{fwDefault}*/; color: #555555/*{fcDefault}*/; }
