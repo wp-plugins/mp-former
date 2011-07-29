@@ -3,7 +3,7 @@ Contributors: vasyl_m
 Tags: custom post type, status, metabox, show on screen, columns, constructor, builder, taxonomy, former
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 0.4.2
+Stable tag: 0.4.3
 
 Easy to use graphic UI for custom post type building. 
 
