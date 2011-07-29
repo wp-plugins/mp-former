@@ -21,9 +21,9 @@
  * Define main constants
  */
 define('MP_PREFIX', 'mp_');
-define('MP_PLUGIN_NAME', MP_PREFIX . 'former');
 //define('MP_BASE_DIR', __DIR__ . '/');
 define('MP_BASE_DIR', dirname(__FILE__) . '/');
+define('MP_PLUGIN_NAME', basename(MP_BASE_DIR));
 define('MP_BASE_URL', WP_PLUGIN_URL . '/' . MP_PLUGIN_NAME . '/');
 define('MP_BACKUPS_DIR', MP_BASE_DIR . 'backups');
 define('MP_HTML_DIR', MP_BASE_DIR . 'view/html/');

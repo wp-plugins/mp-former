@@ -3,7 +3,7 @@
 /*
   Plugin Name: MP Former
   Description: Graphic UI for Custom Post Type building
-  Version: 0.4.2
+  Version: 0.4.3
   Author: Vasyl Martyniuk  <admin@whimba.com>, Benjamin Petersen
   Author URI: http://www.whimba.com
  */

@@ -36,6 +36,9 @@ No question, at least now
 
 == Changelog ==
 
+= 0.4.3 =
+* Fixed bug with plugin path
+
 = 0.4.2 =
 * Added description to all options
 * Added new options to taxonomy constructor
