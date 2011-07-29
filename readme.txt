@@ -3,7 +3,7 @@ Contributors: vasyl_m
 Tags: custom post type, status, metabox, show on screen, columns, constructor, builder, taxonomy, former
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 0.4.3
+Stable tag: 0.4.4
 
 Easy to use graphic UI for custom post type building. 
 
@@ -36,8 +36,11 @@ No question, at least now
 
 == Changelog ==
 
+= 0.4.4 =
+* Changed readme.txt
+
 = 0.4.3 =
-* Fixed bug with plugin path
+* Fixed issue with plugin path
 
 = 0.4.2 =
 * Added description to all options
