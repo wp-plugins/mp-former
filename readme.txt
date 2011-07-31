@@ -1,4 +1,4 @@
-=== Custom Post Type Manager ===
+=== MP-Former Custom Post Type Manager ===
 Contributors: vasyl_m
 Tags: custom post type, status, metabox, show on screen, columns, constructor, builder, taxonomy, former
 Requires at least: 3.0
