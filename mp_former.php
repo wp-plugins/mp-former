@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: MP Former
+  Plugin Name: Custom Post Type Manager
   Description: Graphic UI for Custom Post Type building
   Version: 0.4.3
   Author: Vasyl Martyniuk  <admin@whimba.com>, Benjamin Petersen
